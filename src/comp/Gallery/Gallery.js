@@ -28,7 +28,7 @@ export default function Gallery() {
     return (
         <>
             {galleryModal && <Modal setGalleryModal = {setGalleryModal} modalImage = {modalImage}/ >}
-            <h1>Responsive Image Gallery</h1>
+            <h1 style={{color:"#ceefff"}}>Gallery</h1>
             <hr/>
                 <div id="gallery" class="container-fluid">
                     <img src="https://source.unsplash.com/1600x1200?female,portrait" class="img-responsive" onClick = {handleOnClick}/>

@@ -36,7 +36,7 @@ const Menu = () => {
             </li>
             <li className="nav__list-item">
               <a href="#" className="hover-target">
-                About
+                About 
               </a>
             </li>
             <li className="nav__list-item">
