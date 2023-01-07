@@ -1,5 +1,5 @@
 body {
-    font-family: 'PT Sans Caption', "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 3vh;
 }
 #header {
@@ -29,6 +29,7 @@ body {
     background-size: cover;
 }
 .hero-title {
+    font-family: Arial, Helvetica, sans-serif;
     max-width: 16em;
     margin: 0;
     font-size: 12vh;

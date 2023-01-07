@@ -241,20 +241,20 @@ body {
     max-width:1320px;
   }
   .name{
-    font-size:22px;
+    font-size:30px;
     line-height:35px;
     font-weight:700;
     color:rgb(0, 0, 0);
     margin-top:0px;
     margin-right:0px;
-    margin-bottom:5px;
+    margin-bottom:3px;
     margin-left:0px;
   }
   .position{
     color:#3f92bb;
     font-size:22px;
     line-height:35px;
-    font-weight:700;
+    font-weight:600;
     margin-top:0px;
     margin-right:0px;
     margin-bottom:20px;
@@ -320,7 +320,7 @@ body {
       margin:0 0 30px 0;
     }
     .heading-text{
-      font-size:22px;
+      font-size:27px;
       line-height:28px;
     }
   } 

@@ -27,7 +27,7 @@ body{
     width: 55%;
     float: right;
     background-color: #fdfdfd;
-    padding: 150px;
+    padding: 110px;
 }
 
 .inner-container h1{
@@ -49,6 +49,7 @@ body{
     justify-content: space-between;
     font-weight: 700;
     font-size: 13px;
+    margin-top: 50px;
 }
 
 @media screen and (max-width:1200px){

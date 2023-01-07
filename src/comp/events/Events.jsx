@@ -8,7 +8,7 @@ const Events = () => {
         <div className="wrapper">
           <article>
             <div className="title">
-              <h3>WHY JOIN E-CELL ?</h3>
+              <h3 style={{fontSize:"1.2em" }}><strong>WHY JOIN E-CELL ?</strong></h3>
               <p className="separator" />
             </div>
             <div className="desc full">
