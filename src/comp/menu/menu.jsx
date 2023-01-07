@@ -31,17 +31,17 @@ const Menu = () => {
           <ul className="nav__list">
             <li className="nav__list-item active-nav">
               <a href="#" className="hover-target">
-                Home.
+                Home
               </a>
             </li>
             <li className="nav__list-item">
               <a href="#" className="hover-target">
-                About.
+                About
               </a>
             </li>
             <li className="nav__list-item">
               <a href="#" className="hover-target">
-                Event.
+                Event
               </a>
             </li>
             <li className="nav__list-item">
