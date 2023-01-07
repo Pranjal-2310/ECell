@@ -31,21 +31,21 @@ export default function Gallery() {
             <h1 style={{color:"#ceefff" , fontFamily:"Arial, Helvetica, sans-serif"}}>Gallery</h1>
             <hr/>
                 <div id="gallery" class="container-fluid">
-                    <img src="https://source.unsplash.com/1600x1200?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/1024x768?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/1366x768?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/1920x1080?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/640x360?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/320x640?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/1200x1600?female,portrait" class="card img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/800x600?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/600x800?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/400x600?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/600x400?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/1100x1600?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/1600x1100?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/992x768?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
-                    <img src="https://source.unsplash.com/768x992?female,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/1600x1200?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/1024x768?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/1366x768?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/1920x1080?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/640x360?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/320x640?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/1200x1600?cat,portrait" class="card img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/800x600?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/600x800?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/400x600?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/600x400?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/1100x1600?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/1600x1100?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/992x768?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
+                    <img src="https://source.unsplash.com/768x992?cat,portrait" class="img-responsive" onClick = {handleOnClick}/>
                 </div>
                 
         </>

@@ -9,6 +9,7 @@ import MenuIcon from '@mui/icons-material/Menu';
 // import Wbutton from '../wbutton/wbutton';
 import Menu from '../menu/menu';
 
+
 export default function ButtonAppBar() {
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -18,7 +19,7 @@ export default function ButtonAppBar() {
             News
           </Typography>
           <Button color="inherit">Login</Button> */}
-          
+          <img src='./logo.png'/>
           <Menu/>
         </Toolbar>
       </AppBar>

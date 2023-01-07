@@ -11,7 +11,7 @@ function SideIcon() {
   return (
     <Tape>
         
-    <Make></Make>
+    
     <Cake>
         <div>
       <InstagramIcon sx={{color:"#ceefff"}} fontSize="large"/>
@@ -23,13 +23,12 @@ function SideIcon() {
       </div>
       
     </Cake>
-    <Make></Make>
-    
+   
     </Tape>
   )
 }
 const Tape= styled.div`
-    margin-left: 12%;
+    
     display: flex;
     justify-content:flex-end;
     width: 60%;

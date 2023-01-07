@@ -24,7 +24,7 @@ const Footer = () => {
         E-Cell LNMIIT
       </h1>
       <Container>
-        <Row style={{marginLeft: "200px"}}>
+        <Row style={{marginLeft: "190px"}}>
           <Column>
             <Heading>Important Links</Heading>
             <FooterLink href="#"><span style={{ marginLeft: "10px" ,color:"#fff"}}>Home</span></FooterLink>

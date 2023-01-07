@@ -2,7 +2,7 @@ import React from "react";
 import "./menu.css"
 import Swwe from "./menulogic";
 import { useEffect } from "react";
-import Logo from './logo.png'
+
 
 const Menu = () => {
     useEffect(()=>{
