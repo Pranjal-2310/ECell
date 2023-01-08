@@ -27,21 +27,25 @@ body{
     width: 55%;
     float: right;
     background-color: #fdfdfd;
-    padding: 110px;
+    padding: 8%;
+    
 }
 
 .inner-container h1{
     margin-bottom: 30px;
     font-size: 30px;
     font-weight: 900;
+    
 }
 
 .text{
     font-size: 20px;
-    color: #C1A57B;
+    color: #ad854a;
     line-height: 30px;
     text-align: justify;
     margin-bottom: 40px;
+    
+    
 }
 
 .skills{
@@ -65,6 +69,7 @@ body{
     }
     .inner-container{
         width: 100%;
+        
     }
 }
 
@@ -76,3 +81,4 @@ body{
         padding: 60px;
     }
 }
+

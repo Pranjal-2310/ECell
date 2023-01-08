@@ -6,9 +6,9 @@ const About = () => {
     <div>
       <div class="about-section">
         <div class="inner-container">
-          <h1 style={{ color: "#000" ,paddingTop:"1.5px" }}>About</h1>
+          <h1 style={{ color: "#000" ,paddingTop:"1.7px" }}>About</h1>
           
-          <p class="text" style={{ margin: "16px", lineHeight: "1" ,fontSize: "1.2em"}}>
+          <p class="text" style={{ margin: "1.6%", lineHeight: "1" ,fontSize: "1.4em", paddingLeft: "10%"}}>
             The Entrepreneurship Cell ,LNMIIT is a group of passionate and
             exuberant students at LNMIIT, Jaipur working on promoting the start
             up culture and a spirit of entrepreneurship among the youngsters.
