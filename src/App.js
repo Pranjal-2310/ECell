@@ -17,13 +17,13 @@ import Gallery from "./comp/Gallery/Gallery";
 function App() {
   return (
     <div className="App">
-      <Menu />
-      <Home />
-      <About />
-      <Events />
+      <Menu id="menu"/>
+      <Home id="home"/>
+      <About id="about" />
+      <Events id="events" />
 
-      <Gallery />
-      <Team/>
+      <Gallery id="gallery" />
+      <Team id="team"/>
       <Footer />
     </div>
   );

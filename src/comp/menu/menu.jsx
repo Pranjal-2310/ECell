@@ -3,6 +3,16 @@ import "./menu.css"
 import Swwe from "./menulogic";
 import { useEffect } from "react";
 
+// import Footer from "./comp/footer/Footer";
+// import Team from "./comp/team/Team";
+// import Events from "./comp/events/Events";
+
+// import styled from "styled-components";
+// import ButtonAppBar from "./comp/nav/navbar";
+// import Menu from "./comp/menu/menu";
+// import Gallery from "./comp/Gallery/Gallery";
+
+
 
 const Menu = () => {
     useEffect(()=>{
@@ -30,28 +40,24 @@ const Menu = () => {
       <div className="nav">
         <div className="nav__content">
           <ul className="nav__list">
-            <li className="nav__list-item active-nav">
-              <a href="#" className="hover-target">
-                Home
+          <li className="nav__list-item">
+              <a href="#" className="hover-target" >
+                Home.
               </a>
-            </li>
-            <li className="nav__list-item">
-              <a href="#" className="hover-target">
-                About 
+            </li><li className="nav__list-item">
+              <a href="#about" className="hover-target">
+                About.
               </a>
-            </li>
-            <li className="nav__list-item">
-              <a href="#" className="hover-target">
-                Event
+            </li><li className="nav__list-item">
+              <a href="#event" className="hover-target" >
+                Events.
               </a>
-            </li>
-            <li className="nav__list-item">
-              <a href="#" className="hover-target">
-                Gallery
+            </li><li className="nav__list-item">
+              <a href="#gallery" className="hover-target">
+                Gallery.
               </a>
-            </li>
-            <li className="nav__list-item">
-              <a href="#" className="hover-target">
+            </li><li className="nav__list-item">
+              <a href="#team" className="hover-target">
                 Team
               </a>
             </li>
