@@ -13,14 +13,14 @@ function SideIcon() {
         
     
     <Cake>
-        <div>
+     
       <InstagramIcon sx={{color:"#ceefff"}} fontSize="large"/>
       <FacebookIcon sx={{color:"#ceefff"}} fontSize='large'/>
       <LinkedInIcon sx={{color:"#ceefff"}}fontSize='large'/>
       <YouTubeIcon sx={{color:"#ceefff"}} fontSize='large'/>
       <TwitterIcon sx={{color:"#ceefff"}} fontSize='large'/>
       <EmailIcon sx={{color:"#ceefff"}} fontSize='large'/>
-      </div>
+     
       
     </Cake>
    
