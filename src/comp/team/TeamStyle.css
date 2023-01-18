@@ -376,7 +376,7 @@ button {
   color: #000;
 }
 .btn:hover:after {
-  background: #eefffe;
+  background: #fff;
   -webkit-transform: scale(1);
   transform: scale(1);
 }

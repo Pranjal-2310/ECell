@@ -10,7 +10,7 @@ const Team = () => {
             Our Team
           </p>
           <p class="text-blk sub-heading-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+          "None of us is as smart as all of us."
           </p>
           <div class="responsive-container-block cards-container">
             <div class="responsive-cell-block wk-desk-4 wk-ipadp-4 wk-mobile-12 wk-tab-12 card-container">
@@ -143,7 +143,7 @@ const Team = () => {
               </a>
             </div>
 
-            <div class="frame">
+            <div class="frame" >
               <button class="custom-btn btn">Read More</button>
             </div>
           </div>
